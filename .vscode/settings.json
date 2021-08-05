@@ -1,0 +1,11 @@
+{
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true
+
+	"todohighlight.isCaseSensitive":true
+	"todohighlight.keywords":[
+		"text":"VIDEO",
+		"color":"333",
+	  "backgroundColor":"#3498db"
+	]
+}
